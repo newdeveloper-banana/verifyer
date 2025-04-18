@@ -1,5 +1,5 @@
-// 이름: roblox-verification.js
-// 필요 모듈: discord.js, node-fetch, dotenv
+# 이름: roblox-verification.js
+# 필요 모듈: discord.js, node-fetch, dotenv
 
 const { Client, GatewayIntentBits, Partials, EmbedBuilder, ButtonBuilder, ActionRowBuilder, ButtonStyle, ModalBuilder, TextInputBuilder, TextInputStyle, Events } = require('discord.js');
 const fetch = require('node-fetch');
